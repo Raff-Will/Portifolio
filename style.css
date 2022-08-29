@@ -1,4 +1,24 @@
-<h1>
-font
+h1 {
+  color: rgb(41, 14, 7);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+p{
+  color: blue;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 100%;
+
+}
+
+body{
+  background-image:linear-gradient(rgb(234, 114, 250), rgb(97, 245, 196), rgb(255, 22, 22))
+
+}
+
+
+
+
+
 
 
